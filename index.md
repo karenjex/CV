@@ -50,53 +50,52 @@ Customer-focused database expert. Recognised contributor to the PostgreSQL proje
 
 #### Previous Roles
 
-2007 - 2010 | Owner | Alpine Helpline<br>
-2001 – 2004 | DBA | IMS Health<br>
-2000 – 2001 | DBA | Axciom Ltd<br>
-1998 – 2000 | Junior DBA | Barnardos
+2007 - 2010 Alpine Helpline (Owner)<br>
+2001 – 2004 IMS Health (DBA)<br>
+2000 – 2001 Axciom Ltd (DBA)<br>
+1998 – 2000 Barnardos (Oracle DBA)<br>
 
 ### Qualifications
 
-Oracle Certified Professional DBA (12c) | 2017
-MSc Software Development (Distinction) | Coventry University | 1997-98
-BSc (hons) Mathematics (Class I) | University of Warwick | 1994-97
+Oracle Certified Professional DBA (12c), 2017<br>
+MSc Software Development (Distinction), Coventry University, 1997-98<br>
+BSc (hons) Mathematics (Class I), University of Warwick, 1994-97<br>
 
 ### Volunteer Positions
 
-PostgreSQL Europe: Vice-Treasurer & Diversity Task Force Lead	2024 - present
+#### PostgreSQL Europe: Vice-Treasurer & Diversity Task Force Lead (2024 - present)
 
 Elected to the PostgreSQL Europe board of directors in 2024, serving as vice-treasurer. Founded the PostgreSQL Europe Diversity Task Force to improve diversity within the PostgreSQL Europe community, mainly through inclusivity initiatives. 
 
-RightsTech Women, Geneva: Robotics/Coding Coach			2019 - present
+#### RightsTech Women, Geneva: Robotics/Coding Coach (2019 - present)
 
 Volunteering as a coach for an organization that campaigns for women’s rights in STEM provides me with the opportunity to share my passion for technology and to encourage and mentor young women in a fun environment.
 
 ### Key Skills
 
-Database solution design, requirements analysis
-Technical account management
-Verbal communication: customer engagements, training, conference talks 
-Written communication:  report writing, blog posts, presentations
-Database administration: performance tuning, data modelling, SQL
-DevOps, automation
+* Database solution design, requirements analysis
+* Verbal communication: customer engagements, training, conference talks 
+* Written communication:  report writing, blog posts, presentations
+* Database administration: performance tuning, data modelling, SQL
+* Coding, DevOps, automation
 
 ### Key Tools and Technologies
 
 #### Database
 
-PostgreSQL | SQL | psql | pgAdmin | pgBackRest | PgBouncer | Patroni | PGO |Crunchy Postgres for Kubernetes (CPK) | EDB Postgres |  Postgres Enterprise Manager | repmgr
+PostgreSQL, SQL, psql, pgAdmin, pgBackRest, PgBouncer, Patroni, PGO, Crunchy Postgres for Kubernetes (CPK), EDB Postgres, Postgres Enterprise Manager, repmgr
 
 #### OS/Infrastructure
 
-RHEL | CentOS | Ubuntu | Docker | Kubernetes | OpenShift | GKE | Rancher
+RHEL, CentOS, Ubuntu, Docker, Kubernetes, OpenShift, GKE, Rancher
 
 #### Development/Automation
 
-git | Ansible | Kustomize | Vagrant | Bash | Python | Ruby | Jira 
+git, Ansible, Kustomize, Vagrant, Bash, Python, Ruby, Jira 
 
 #### Previous
 
-mRemote | Informatica | Spice | Weblogic | AIX | Oracle | SQL*Plus | PL/SQL Developer | OEM
+mRemote, Informatica, Spice, Weblogic, AIX, Oracle, SQL*Plus, PL/SQL, Oracle Developer, OEM
 
 ### Additional Information
 
