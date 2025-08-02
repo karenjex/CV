@@ -1,10 +1,9 @@
 <img style="float:right;border-radius:50%;width:80px;padding:6px" src="profile_pic.jpg" />
 
 <span style="float:right;padding:6px"> 
-  karenhjex@gmail.com<br> 
   [karenjex.blogspot.com](https://karenjex.blogspot.com/)<br>
   [www.linkedin.com/in/karenhjex](https://www.linkedin.com/in/karenhjex/)<br> 
-  Nationality: UK & French
+  Nationality: UK & French | Location: France
 </span>
 
 # Karen Hope Jex
@@ -82,16 +81,24 @@ DevOps, automation
 
 ### Key Tools and Technologies
 
-#### Current
+#### Database
 
-PostgreSQL | RHEL | CentOS | Ubuntu | Docker | Kubernetes | OpenShift | GKE | Rancher | git | Ansible | Kustomize | Vagrant | Bash | Python | Ruby | SQL | psql | pgAdmin | pgBackRest | PgBouncer | Patroni | Crunchy Postgres for Kubernetes (CPK) 
+PostgreSQL | SQL | psql | pgAdmin | pgBackRest | PgBouncer | Patroni | PGO |Crunchy Postgres for Kubernetes (CPK) | EDB Postgres |  Postgres Enterprise Manager | repmgr
+
+#### OS/Infrastructure
+
+RHEL | CentOS | Ubuntu | Docker | Kubernetes | OpenShift | GKE | Rancher
+
+#### Development/Automation
+
+git | Ansible | Kustomize | Vagrant | Bash | Python | Ruby | Jira 
 
 #### Previous
-  
-mRemote | Informatica | Spice | Jira | EDB Postgres | Oracle | SQL*Plus | SQL Developer | Weblogic 12 | OEM | Postgres Enterprise Manager | repmgr | AIX
+
+mRemote | Informatica | Spice | Weblogic | AIX | Oracle | SQL*Plus | PL/SQL Developer | OEM
 
 ### Additional Information
 
-Location: France<br>
+Email: karenhjex@gmail.com<br> 
 Phone: +33 651774104<br> 
 Languages: English (first language),	French (fluent)
