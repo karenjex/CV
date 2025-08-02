@@ -16,29 +16,30 @@ Customer-focused database expert. Recognised contributor to the PostgreSQL proje
 
 ## Professional Experience
 
-#### Snowflake | Solutions Architect | 2025/06 - present
+#### [Snowflake](https://www.snowflake.com/) | Solutions Architect | 2025/06 - present
+(via Crunchy Data acquisition)
 
-#### Crunchy Data | Senior Solutions Architect | 2022/05 - 2025/06
+#### [Crunchy Data](https://www.crunchydata.com/) | Senior Solutions Architect | 2022/05 - 2025/06
 
 * Translating customers’ technical requirements into viable and scalable solution designs.
 * working closely with product teams to ensure Crunchy Data solutions meet customer requirements. 
 * Accompanying customers during upgrade, migration and other projects.
 * Developing and delivering training workshops and conference talks, writing technical blog posts.
 
-#### EnterpriseDB | Senior Database Consultant | Jan 2020 – Apr 2022
+#### [EnterpriseDB](https://www.enterprisedb.com/) | Senior Database Consultant | Jan 2020 – Apr 2022
 
 * Delivering successful customer engagements for database system deployment, performance, security etc.
 * Technical Account Management for strategic customers
 * Writing blog posts, presenting webinars, speaking at conferences.
 * Streamlining and standardising packaged customer services.
 
-#### Enedis | Database Expert | May 2017 – Dec 2019	
+#### [Enedis](https://www.enedis.fr/) | Database Expert | May 2017 – Dec 2019	
 
 * Database Expert on projects that managed the deployment of smart electricity meters
 * Oracle and PostgreSQL database administration, support and training for developers and other team members. 
 * Implemented security rules and database upgrades, lead project to anonymize confidential data.
 
-#### QuintilesIMS | Consultant Database Administrator | Jan 2010 to Dec 2016
+#### QuintilesIMS (now IQVIA) | Consultant Database Administrator | Jan 2010 to Dec 2016
 
 * Lead DBA on Oracle datawarehouse development.
 * Designed and implemented processes for data model and DDL change control & QA.
@@ -63,11 +64,11 @@ BSc (hons) Mathematics (Class I), University of Warwick, 1994-97<br>
 
 ### Volunteer Positions
 
-#### PostgreSQL Europe: Vice-Treasurer & Diversity Task Force Lead (2024 - present)
+#### [PostgreSQL Europe](https://www.postgresql.eu/) Board: Vice-Treasurer & Diversity Task Force Lead (2024 - present)
 
-I was elected to the PostgreSQL Europe board of directors in 2024, where I serve as vice-treasurer. During my term, I founded, and am leading, the PostgreSQL Europe Diversity Task Force to improve diversity within the PostgreSQL Europe community. I have documented both internal processes and guidelines for conference organisers, and I am working to make the work of the Board more transparent and to encourage participation from new PostgreSQL Europe community members.
+I was elected to the PostgreSQL Europe board of directors in 2024, where I serve as vice-treasurer. During my term, I founded, and am leading, the [PostgreSQL Europe Diversity Task Force](https://www.postgresql.eu/diversity/) to improve diversity within the PostgreSQL Europe community. I have documented both internal processes and guidelines for conference organisers, and I am working to make the work of the Board more transparent and to encourage participation from new PostgreSQL Europe community members.
 
-#### RightsTech Women, Geneva: Robotics/Coding Coach (2019 - present)
+#### [RightsTech Women, Geneva](https://rightstech.org/): Robotics/Coding Coach (2019 - present)
 
 Volunteering as a coach for an organization that campaigns for women’s rights in STEM provides me with the opportunity to share my passion for technology and to encourage and mentor young women in a fun, supportive environment.
 
