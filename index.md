@@ -1,11 +1,10 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="profile_pic.jpg" />
+<img style="float:right;border-radius:50%;width:80px;padding:6px" src="profile_pic.jpg" />
 
 <span style="float:right;padding:6px"> 
   karenhjex@gmail.com<br> 
-  mobile: +33 651774104<br> 
-  Nationality: UK & French<br> 
-  Location: France<br>
-  Blog: [karenjex.blogspot.com](https://karenjex.blogspot.com/)
+  [karenjex.blogspot.com](https://karenjex.blogspot.com/)<br>
+  [www.linkedin.com/in/karenhjex](https://www.linkedin.com/in/karenhjex/)<br> 
+  Nationality: UK & French
 </span>
 
 # Karen Hope Jex
@@ -80,7 +79,6 @@ Verbal communication: customer engagements, training, conference talks
 Written communication:  report writing, blog posts, presentations
 Database administration: performance tuning, data modelling, SQL
 DevOps, automation
-English : first language	French : fluent
 
 ### Key Tools and Technologies
 
@@ -91,3 +89,9 @@ PostgreSQL | RHEL | CentOS | Ubuntu | Docker | Kubernetes | OpenShift | GKE | Ra
 #### Previous
   
 mRemote | Informatica | Spice | Jira | EDB Postgres | Oracle | SQL*Plus | SQL Developer | Weblogic 12 | OEM | Postgres Enterprise Manager | repmgr | AIX
+
+### Additional Information
+
+Location: France<br>
+Phone: +33 651774104<br> 
+Languages: English (first language),	French (fluent)
