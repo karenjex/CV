@@ -1,7 +1,11 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="profile_pic.jpg" />
 
 <span style="float:right;padding:6px"> 
-  karenhjex@gmail.com <br> mobile: +33 651774104 <br> Nationality: UK & French <br> Location: France
+  karenhjex@gmail.com<br> 
+  mobile: +33 651774104<br> 
+  Nationality: UK & French<br> 
+  Location: France<br>
+  Blog: [karenjex.blogspot.com](https://karenjex.blogspot.com/)
 </span>
 
 # Karen Hope Jex
