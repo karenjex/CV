@@ -3,7 +3,8 @@
 <span style="float:right;padding:6px"> 
   [karenjex.blogspot.com](https://karenjex.blogspot.com/)<br>
   [www.linkedin.com/in/karenhjex](https://www.linkedin.com/in/karenhjex/)<br> 
-  Nationality: UK & French | Location: France
+  Nationality: UK & French<br>
+  Location: France
 </span>
 
 # Karen Hope Jex
@@ -11,7 +12,7 @@
 
 ## Executive Summary
 
-#### Customer-focused database expert. Recognised contributor to the PostgreSQL project, PostgreSQL Europe Board Member and Founder and Chair of the PostgreSQL Europe Diversity Committee. Passionate about solving technical problems and sharing knowledge and experience through documentation, training, mentoring and public speaking.
+Customer-focused database expert. Recognised contributor to the PostgreSQL project, PostgreSQL Europe Board Member and Founder and Chair of the PostgreSQL Europe Diversity Committee. Passionate about solving technical problems and sharing knowledge and experience through documentation, training, mentoring and public speaking.
 
 ## Professional Experience
 
