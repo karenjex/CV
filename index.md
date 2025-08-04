@@ -10,7 +10,7 @@
 # Karen Hope Jex
 ## Senior Solutions Architect
 
-Customer-focused database expert, recognised [contributor to the PostgreSQL project](https://www.postgresql.org/community/contributors/), [PostgreSQL Europe](postgresql.eu/) Board Member, and Founder & Chair of its Diversity Committee.
+Customer-focused database expert, recognised contributor to the [PostgreSQL project](https://www.postgresql.org/community/contributors/), Member of the Board of [PostgreSQL Europe](postgresql.eu/), and Founder & Chair of its Diversity Committee.
 With over 20 years of experience — starting in the Oracle ecosystem and transitioning into open source — I bring deep technical expertise and a passion for solving complex database challenges.
 
 I actively support the PostgreSQL open source community through my leadership on the PostgreSQL Europe Board and by championing inclusion and accessibility as Chair of the Diversity Committee. I help clients get the most out of PostgreSQL through hands-on consulting, knowledge sharing, documentation development, and process optimisation.
@@ -18,8 +18,6 @@ I actively support the PostgreSQL open source community through my leadership on
 A frequently invited [speaker](https://www.youtube.com/playlist?list=PL0IpRBoeAG2MrhwrFbDcu7W2LK9QN8dbE) at major PostgreSQL and developer conferences, I also lead trainings and mentor aspiring database professionals, helping others thrive in the open source space.
 
 ## Professional Experience
-
-(via Crunchy Data acquisition)
 
 #### [Crunchy Data](https://www.crunchydata.com/) | Senior Solutions Architect | May 2022 - present
 #### Acquired by [Snowflake](https://www.snowflake.com/) June 2025
