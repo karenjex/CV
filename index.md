@@ -10,7 +10,7 @@
 # Karen Hope Jex
 ## Senior Solutions Architect
 
-Customer-focused database expert, recognised contributor to the [PostgreSQL project](https://www.postgresql.org/community/contributors/), Member of the Board of [PostgreSQL Europe](postgresql.eu/), and Founder & Chair of its Diversity Committee.
+Customer-focused database expert, recognised contributor to the [PostgreSQL project](https://www.postgresql.org/community/contributors/), member of the Board of [PostgreSQL Europe](postgresql.eu/), and Founder & Chair of its Diversity Committee.
 With over 20 years of experience — starting in the Oracle ecosystem and transitioning into open source — I bring deep technical expertise and a passion for solving complex database challenges.
 
 I actively support the PostgreSQL open source community through my leadership on the PostgreSQL Europe Board and by championing inclusion and accessibility as Chair of the Diversity Committee. I help clients get the most out of PostgreSQL through hands-on consulting, knowledge sharing, documentation development, and process optimisation.
