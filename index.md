@@ -8,21 +8,24 @@
 </span>
 
 # Karen Hope Jex
-## Database Specialist
+## Senior Solutions Architect
 
-## Executive Summary
+Customer-focused database expert, recognised [contributor to the PostgreSQL project](https://www.postgresql.org/community/contributors/), [PostgreSQL Europe](postgresql.eu/) Board Member, and Founder & Chair of its Diversity Committee.
+With over 20 years of experience — starting in the Oracle ecosystem and transitioning into open source — I bring deep technical expertise and a passion for solving complex database challenges.
 
-Customer-focused database expert. Recognised contributor to the PostgreSQL project, PostgreSQL Europe Board Member and Founder and Chair of the PostgreSQL Europe Diversity Committee. Passionate about solving technical problems and sharing knowledge and experience through documentation, training, mentoring and public speaking.
+I actively support the PostgreSQL open source community through my leadership on the PostgreSQL Europe Board and by championing inclusion and accessibility as Chair of the Diversity Committee. I help clients get the most out of PostgreSQL through hands-on consulting, knowledge sharing, documentation development, and process optimisation.
+
+A frequently invited [speaker](https://www.youtube.com/playlist?list=PL0IpRBoeAG2MrhwrFbDcu7W2LK9QN8dbE) at major PostgreSQL and developer conferences, I also lead trainings and mentor aspiring database professionals, helping others thrive in the open source space.
 
 ## Professional Experience
 
-#### [Snowflake](https://www.snowflake.com/) | Solutions Architect | 2025/06 - present
 (via Crunchy Data acquisition)
 
-#### [Crunchy Data](https://www.crunchydata.com/) | Senior Solutions Architect | 2022/05 - 2025/06
+#### [Crunchy Data](https://www.crunchydata.com/) | Senior Solutions Architect | May 2022 - present
+#### Acquired by [Snowflake](https://www.snowflake.com/) June 2025
 
 * Translating customers’ technical requirements into viable and scalable solution designs.
-* working closely with product teams to ensure Crunchy Data solutions meet customer requirements. 
+* Working closely with product teams to ensure Crunchy Data solutions meet customer requirements. 
 * Accompanying customers during upgrade, migration and other projects.
 * Developing and delivering training workshops and conference talks, writing technical blog posts.
 
