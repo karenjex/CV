@@ -19,8 +19,7 @@ A frequently invited [speaker](https://www.youtube.com/playlist?list=PL0IpRBoeAG
 
 ## Professional Experience
 
-#### [Crunchy Data](https://www.crunchydata.com/) | Senior Solutions Architect | May 2022 - present
-#### Acquired by [Snowflake](https://www.snowflake.com/) June 2025
+#### [Crunchy Data](https://www.crunchydata.com/) | Senior Solutions Architect | May 2022 - present<br>Acquired by [Snowflake](https://www.snowflake.com/) June 2025
 
 * Translating customers’ technical requirements into viable and scalable solution designs.
 * Working closely with product teams to ensure Crunchy Data solutions meet customer requirements. 
