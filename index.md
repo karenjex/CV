@@ -21,33 +21,34 @@ A frequently invited [speaker](https://www.youtube.com/playlist?list=PL0IpRBoeAG
 
 #### [Crunchy Data](https://www.crunchydata.com/) | Senior Solutions Architect | May 2022 - present<br>Acquired by [Snowflake](https://www.snowflake.com/) June 2025
 
-* Translating customers’ technical requirements into viable and scalable solution designs.
-* Working closely with product teams to ensure Crunchy Data solutions meet customer requirements. 
-* Accompanying customers during upgrade, migration and other projects.
-* Developing and delivering training workshops and conference talks, writing technical blog posts.
+* Translate customers’ technical requirements into viable and scalable solution designs.
+* Work closely with product teams to ensure Crunchy Data solutions meet customer requirements. 
+* Accompany customers during upgrade, migration and other projects.
+* Develop and deliver training workshops and conference talks, write technical blog posts.
 
 #### [EnterpriseDB](https://www.enterprisedb.com/) | Senior Database Consultant | Jan 2020 – Apr 2022
 
-* Delivering successful customer engagements for database system deployment, performance, security etc.
-* Technical Account Management for strategic customers
-* Writing blog posts, presenting webinars, speaking at conferences.
-* Streamlining and standardising packaged customer services.
+* Delivered successful customer engagements for database system deployment, performance, security etc.
+* Provided Technical Account Management for strategic customers.
+* Wrote blog posts, presented webinars, spoke at conferences.
+* Streamlined and standardised packaged customer services.
 
 #### [Enedis](https://www.enedis.fr/) | Database Expert | May 2017 – Dec 2019	
 
-* Database Expert on projects that managed the deployment of smart electricity meters
-* Oracle and PostgreSQL database administration, support and training for developers and other team members. 
+* Provided database expertise on projects that managed the deployment of smart electricity meters.
+* Managed and automated (via Ansible) Oracle and PostgreSQL database deployments.
+* Provided database support and training for developers and other team members. 
 * Implemented security rules and database upgrades, lead project to anonymize confidential data.
 
-#### QuintilesIMS (now IQVIA) | Consultant Database Administrator | Jan 2010 to Dec 2016
+#### [QuintilesIMS (now IQVIA)](https://www.iqvia.com/) | Consultant Database Administrator | Jan 2010 to Dec 2016
 
-* Lead DBA on Oracle datawarehouse development.
-* Designed and implemented processes for data model and DDL change control & QA.
+* Lead the DBA efforts on an Oracle datawarehouse development project.
+* Designed and implemented processes for data model and DDL change control and QA.
 * Documented and implemented processes for day-to-day database activities.
-* Project management, delegation to junior team members.
-* General DBA responsibilities and support for Oracle, SQL Server and Sybase databases.
-* Enhancing and debugging PL/SQL code.
-* Researching and testing Oracle new features and sharing knowledge via documentation and training.
+* Managed projects and delegated tasks to junior team members.
+* Managed and supported Oracle, SQL Server and Sybase database implementations.
+* Enhanced and debugged PL/SQL code.
+* Researched and tested Oracle new features and shared knowledge via documentation and training.
 
 #### Previous Roles
 
@@ -58,23 +59,28 @@ A frequently invited [speaker](https://www.youtube.com/playlist?list=PL0IpRBoeAG
 
 ### Qualifications
 
-Oracle Certified Professional DBA (12c), 2017<br>
-MSc Software Development (Distinction), Coventry University, 1997-98<br>
-BSc (hons) Mathematics (Class I), University of Warwick, 1994-97<br>
+Oracle Certified Professional DBA (versions 7 to 12c)<br>
+MSc Software Development (Distinction), Coventry University<br>
+BSc (hons) Mathematics (Class I), University of Warwick<br>
 
 ### Volunteer Positions
 
-#### [PostgreSQL Europe](https://www.postgresql.eu/) Board: Vice-Treasurer & Diversity Task Force Lead (2024 - present)
+#### [PostgreSQL Europe](https://www.postgresql.eu/) Board: Vice-Treasurer & Diversity Committee Lead (2024 - present)
 
-I was elected to the PostgreSQL Europe board of directors in 2024, where I serve as vice-treasurer. During my term, I founded, and am leading, the [PostgreSQL Europe Diversity Task Force](https://www.postgresql.eu/diversity/) to improve diversity within the PostgreSQL Europe community. I have documented both internal processes and guidelines for conference organisers, and I am working to make the work of the Board more transparent and to encourage participation from new PostgreSQL Europe community members.
+I was elected to the PostgreSQL Europe board of directors in 2024, where I serve as vice-treasurer. During my term, I founded, and am leading, the [PostgreSQL Europe Diversity Committee](https://www.postgresql.eu/diversity/) to improve diversity within the PostgreSQL Europe community. I have documented both internal processes and guidelines for conference organisers, and I am working to make the work of the Board more transparent and to encourage participation from new PostgreSQL Europe community members.
 
 #### [RightsTech Women, Geneva](https://rightstech.org/): Robotics/Coding Coach (2019 - present)
 
 Volunteering as a coach for an organization that campaigns for women’s rights in STEM provides me with the opportunity to share my passion for technology and to encourage and mentor young women in a fun, supportive environment.
 
+### Personal Projects
+
+#### [Advent of Code](https://adventofcode.com/)
+I participate in the Advent of Code challenge each year, mainly for fun, but also to keep my coding skills current and to help me learn new languages. I've used Python, Ruby, SQL and once even attempted it using bash scripts. My solutions are available at [github.com/karenjex/adventofcode](https://github.com/karenjex/adventofcode).
+
 ### Key Skills
 
-* Problem solving, database solution design, requirements analysis
+* Database system problem solving, solution design and requirements analysis
 * Verbal communication: customer engagements, training, conference talks 
 * Written communication:  report writing, blog posts, presentations
 * Database administration: performance tuning, data modelling, SQL
