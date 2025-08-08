@@ -10,10 +10,12 @@
 # Karen Hope Jex
 ## Senior Solutions Architect
 
-Customer-focused database expert, recognised contributor to the [PostgreSQL project](https://www.postgresql.org/community/contributors/), member of the Board of [PostgreSQL Europe](postgresql.eu/), and Founder & Chair of its Diversity Committee.
+Customer-focused database expert, recognised contributor to the [PostgreSQL project](https://www.postgresql.org/community/contributors/), member of the Board of [PostgreSQL Europe](https://www.postgresql.eu/), and Founder & Chair of its Diversity Committee.
 With over 20 years of experience — starting in the Oracle ecosystem and transitioning into open source — I bring deep technical expertise and a passion for solving complex database challenges.
 
-I actively support the PostgreSQL open source community through my leadership on the PostgreSQL Europe Board and by championing inclusion and accessibility as Chair of the Diversity Committee. I help clients get the most out of PostgreSQL through hands-on consulting, knowledge sharing, documentation development, and process optimisation.
+I actively support the PostgreSQL open source community through my leadership on the PostgreSQL Europe Board and by championing inclusion and accessibility as Chair of the Diversity Committee. 
+
+I help clients get the most out of PostgreSQL through hands-on consulting, knowledge sharing, documentation development, and process optimisation.
 
 A frequently invited [speaker](https://www.youtube.com/playlist?list=PL0IpRBoeAG2MrhwrFbDcu7W2LK9QN8dbE) at major PostgreSQL and developer conferences, I also lead trainings and mentor aspiring database professionals, helping others thrive in the open source space.
 
@@ -68,6 +70,28 @@ BSc (hons) Mathematics (Class I), University of Warwick<br>
 #### [PostgreSQL Europe](https://www.postgresql.eu/) Board: Vice-Treasurer & Diversity Committee Lead (2024 - present)
 
 I was elected to the PostgreSQL Europe board of directors in 2024, where I serve as vice-treasurer. During my term, I founded, and am leading, the [PostgreSQL Europe Diversity Committee](https://www.postgresql.eu/diversity/) to improve diversity within the PostgreSQL Europe community. I have documented both internal processes and guidelines for conference organisers, and I am working to make the work of the Board more transparent and to encourage participation from new PostgreSQL Europe community members.
+
+#### [PostgreSQL Community Conferences](https://www.postgresql.org/about/policies/conferences/) Organiser and Volunteer
+
+I have taken on various roles in the organisation of many PostgreSQL community events both in Europe and beyond; organiser, Selection Committee Chair, volunteer, and advisor.
+
+In all of those roles, I have focused on improving and documenting processes and on finding ways to bring new people into the organisation teams. Some examples of recent events I've been involved in:
+
+**2025**
+* [PostgreSQL Conference Europe](https://2025.pgconf.eu) Co-organiser and Selection Committee Chair
+* [PGDay Chicago](https://2025.pgdaychicago.org) Selection Committee Chair
+* [PostgreSQL Development Conference](https://2025.pgconf.dev) Code of Conduct Committee member
+
+**2024**
+* [PostgreSQL Conference Europe](https://2024.pgconf.eu) Co-organiser and Selection Committee Chair
+* [PGDay Chicago](https://2024.pgdaychicago.org) Selection Committee Chair
+* [pgDay Paris](https://2024.pgday.paris) Co-organiser and Code of Conduct Committee member
+
+**2023**
+* [PostgreSQL Conference Europe](https://2023.pgconf.eu) Selection Committee member
+* [PGDay Chicago](https://2023.pgdaychicago.org) Selection Committee member
+* [FOSDEM PGDay](https://2023.fosdempgday.org) Selection Committee member
+* [pgDay Paris](https://2023.pgday.paris) Co-organiser, Selection Committee and Code of Conduct Committee member
 
 #### [RightsTech Women, Geneva](https://rightstech.org/): Robotics/Coding Coach (2019 - present)
 
