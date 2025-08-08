@@ -77,20 +77,20 @@ I have taken on various roles in the organisation of many PostgreSQL community e
 
 In all of those roles, I have focused on improving and documenting processes and on finding ways to bring new people into the organisation teams. Some examples of recent events I've been involved in:
 
-**2025**
-[PostgreSQL Conference Europe](https://2025.pgconf.eu) Co-organiser and Selection Committee Chair
-[PGDay Chicago](https://2025.pgdaychicago.org) Selection Committee Chair
+**2025**<br>
+[PostgreSQL Conference Europe](https://2025.pgconf.eu) Co-organiser and Selection Committee Chair<br>
+[PGDay Chicago](https://2025.pgdaychicago.org) Selection Committee Chair<br>
 [PostgreSQL Development Conference](https://2025.pgconf.dev) Code of Conduct Committee member
 
-**2024**
-[PostgreSQL Conference Europe](https://2024.pgconf.eu) Co-organiser and Selection Committee Chair
-[PGDay Chicago](https://2024.pgdaychicago.org) Selection Committee Chair
+**2024**<br>
+[PostgreSQL Conference Europe](https://2024.pgconf.eu) Co-organiser and Selection Committee Chair<br>
+[PGDay Chicago](https://2024.pgdaychicago.org) Selection Committee Chair<br>
 [pgDay Paris](https://2024.pgday.paris) Co-organiser and Code of Conduct Committee member
 
-**2023**
-[PostgreSQL Conference Europe](https://2023.pgconf.eu) Selection Committee member
-[PGDay Chicago](https://2023.pgdaychicago.org) Selection Committee member
-[FOSDEM PGDay](https://2023.fosdempgday.org) Selection Committee member
+**2023**<br>
+[PostgreSQL Conference Europe](https://2023.pgconf.eu) Selection Committee member<br>
+[PGDay Chicago](https://2023.pgdaychicago.org) Selection Committee member<br>
+[FOSDEM PGDay](https://2023.fosdempgday.org) Selection Committee member<br>
 [pgDay Paris](https://2023.pgday.paris) Co-organiser, Selection Committee and Code of Conduct Committee member
 
 #### [RightsTech Women, Geneva](https://rightstech.org/): Robotics/Coding Coach (2019 - present)
